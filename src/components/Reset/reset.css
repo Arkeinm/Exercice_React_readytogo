@@ -1,0 +1,15 @@
+.reset {
+  padding: 5px 15px;
+  border-radius: 4px;
+  color: black;
+  font-size: 30px;
+  border: 1px solid #908f8f;
+}
+
+.red {
+  background-color: #faa0a0;
+}
+
+.green {
+  background-color: #c1e1c1;
+}

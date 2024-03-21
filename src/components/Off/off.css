@@ -1,0 +1,9 @@
+.offClicked {
+  color: white;
+  background-color: #5c48d3;
+}
+
+.offNoCLicked {
+  background-color: white;
+  color: #5c48d3;
+}

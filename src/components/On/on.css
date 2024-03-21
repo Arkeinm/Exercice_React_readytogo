@@ -1,0 +1,11 @@
+.onClicked {
+  color: white;
+  background-color: #5C48D3;
+  border: 1px #908F8F solid ;
+}
+
+.onNoCLicked {
+  background-color: white;
+  color: #5C48D3;
+  border: 1px #908F8F solid ;
+}

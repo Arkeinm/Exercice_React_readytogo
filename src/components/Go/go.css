@@ -1,0 +1,25 @@
+.go {
+  border: none;
+  font-size: 30px;
+  padding: 20px;
+}
+
+.goLive {
+  background-color: #c1e1c1;
+}
+
+.noGo {
+  background-color: #faa0a0;
+}
+
+@media (max-with: 500px) {
+  .go {
+    margin-left: -50px;
+  }
+}
+
+@media (min-width: 500px) {
+  .go {
+    margin-left: 70px;
+  }
+}
